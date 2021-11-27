@@ -1,4 +1,4 @@
-# My notes for this project
+# My notes for this project 
 I took this opportunity to use and explore tools/libs ('@reduxjs (new toolkit version)', '@mui/material', 'msw', 'react-router-dom: 6') that where brand new to me.
 I developed a React + Redux application with a minimal UI for the features requested having in mind performance, accessibility and SEO.
 
@@ -7,10 +7,9 @@ Important notes:
   you can check this behavior in chrome Redux Devtools or simply by checking the network tab.
 - I've installed emotion it's my go to CSS-in-JS (it's what I'm more used to).
 - I opted to use Proptypes for type checking.
-- All application is tested (excluding the all the index.js)
-- You can navigate the application using only tab's & enter
-- I've added an extra functionality ability to add a new post ('POST') in the posts page (json placeholder api 
-does not really update the data so the list will not be updated)
+- All application is tested (excluding the all the index.js) 
+- You can navigate the application using only tab's & enter 
+- I've added an extra functionality ability to add a new post ('POST') in the posts page (add post button)
 
 - Node: v14.17.0
 - Yarn: v1.22.15
@@ -28,6 +27,5 @@ Some tasks could be done to improve this app:
 
 - yarn install (first time usage)
 - yarn start
-
 
 
